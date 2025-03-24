@@ -20,8 +20,10 @@
 
 [^1]: https://boringkate.tumblr.com/post/774519155558858752/transitioning-is-scary-do-it-anyways-do-it
 
-- [ ] Prologue (start: 1742545562)
-- [ ] 1
+Remember: It's okay to be imperfect :3
+
+- [X] Prologue (start: 1742545562) split: 1742546319
+- [X] 1: 1742778830
 - [ ] 2
 - [ ] 3
 - [ ] 4
