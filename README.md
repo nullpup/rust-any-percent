@@ -24,8 +24,9 @@ Remember: It's okay to be imperfect :3
 
 - [X] Prologue (start: 1742545562) split: 1742546319
 - [X] 1: 1742778830
+- [ ] 3 (skipped 2 at first): 1742868025 (skipped fibonacci and carol
+b/c I want to learn more about other parts of rust `>w<`)
 - [ ] 2
-- [ ] 3
 - [ ] 4
 - [ ] 5
 - [ ] 6
